@@ -259,7 +259,7 @@ export function Avatar(props) {
   )
 }
 
-useGLTF.preload('models/avatar.glb')
+// useGLTF.preload('models/avatar.glb')
 useGLTF.preload('models/app.glb')
 useGLTF.preload('models/web.glb')
 useFBX.preload("animations/Typing.fbx");
